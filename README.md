@@ -1,4 +1,4 @@
-# 🇮🇳 India Macroeconomic Analysis & Forecasting Model
+#  India Macroeconomic Analysis & Forecasting Model
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python) 
 ![Libraries](https://img.shields.io/badge/Libraries-Pandas%20%7C%20NumPy%20%7C%20Statsmodels%20%7C%20Matplotlib%20%7C%20Seaborn-green)
